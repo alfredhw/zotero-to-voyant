@@ -111,6 +111,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 Alfred Wallace - alfred.wallace@und.edu
+Created with the assistance of Claude 4 Opus, as part of a series of experiments with "vibe coding" for librarians and information professionals
 
 ## Version History
 
